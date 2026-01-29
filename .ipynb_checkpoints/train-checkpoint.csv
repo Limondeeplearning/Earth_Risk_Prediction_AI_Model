@@ -1,0 +1,51 @@
+Name,Age,Health Status,Floor Assignment,Emergency Exit,Earthquake Safety Protocol,Earthquake Intensity,Status
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+Xander,72,fit,6,Mid,Accustomed,4,Alive
+Sam,63,unfit,4,Far,Accustomed,3,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Oscar,30,fit,1,Close,Accustomed,8,Alive
+Xander,72,fit,6,Mid,Accustomed,4,Alive
+Rachel,60,unfit,6,Far,Accustomed,6,Dead
+Hannah,81,unfit,1,Mid,Not Accustomed,5,Dead
+Uma,82,fit,6,Close,Not Accustomed,9,Dead
+Paula,83,unfit,4,Far,Accustomed,3,Dead
+Oscar,63,unfit,3,Close,Accustomed,7,Dead
+Uma,82,fit,6,Close,Not Accustomed,9,Dead
+Xander,44,unfit,3,Far,Not Accustomed,4,Dead
+Rachel,60,unfit,6,Far,Accustomed,6,Dead
+David,50,unfit,1,Close,Not Accustomed,5,Dead
+Sam,61,fit,6,Mid,Accustomed,7,Dead
+Rachel,60,unfit,6,Far,Accustomed,6,Dead
+Paula,83,unfit,4,Far,Accustomed,3,Dead
+Paula,83,unfit,4,Far,Accustomed,3,Dead
+Oscar,63,unfit,3,Close,Accustomed,7,Dead
+Xander,44,unfit,3,Far,Not Accustomed,4,Dead
+Hannah,81,unfit,1,Mid,Not Accustomed,5,Dead
+Oscar,63,unfit,3,Close,Accustomed,7,Dead
+Oscar,63,unfit,3,Close,Accustomed,7,Dead
+Sam,61,fit,6,Mid,Accustomed,7,Dead
+Victor,79,fit,5,Mid,Not Accustomed,4,Dead
+Xander,44,unfit,3,Far,Not Accustomed,4,Dead
+Grace,88,unfit,4,Far,Not Accustomed,5,Dead
+Oscar,63,unfit,3,Close,Accustomed,7,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Victor,79,fit,5,Mid,Not Accustomed,4,Dead
+Grace,88,unfit,4,Far,Not Accustomed,5,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Xander,44,unfit,3,Far,Not Accustomed,4,Dead
+Mike,86,fit,2,Mid,Not Accustomed,1,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+David,50,unfit,1,Close,Not Accustomed,5,Dead
+Victor,79,fit,5,Mid,Not Accustomed,4,Dead
+Uma,82,fit,6,Close,Not Accustomed,9,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Alice,49,unfit,4,Mid,Not Accustomed,8,Dead
+Mike,86,fit,2,Mid,Not Accustomed,1,Dead
+Paula,83,unfit,4,Far,Accustomed,3,Dead
+Paula,83,unfit,4,Far,Accustomed,3,Dead
+David,50,unfit,1,Close,Not Accustomed,5,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Sam,61,fit,6,Mid,Accustomed,7,Dead
+Kevin,74,fit,3,Close,Not Accustomed,5,Dead
+Zack,47,fit,5,Close,Not Accustomed,4,Alive

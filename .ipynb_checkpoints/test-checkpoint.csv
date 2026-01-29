@@ -1,0 +1,51 @@
+Name,Age,Health Status,Floor Assignment,Emergency Exit,Earthquake Safety Protocol,Earthquake Intensity,Status
+Hannah,29,unfit,5,Far,Accustomed,5,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Grace,52,unfit,2,Close,Not Accustomed,8,Alive
+Oscar,30,fit,1,Close,Accustomed,8,Alive
+Hannah,29,unfit,5,Far,Accustomed,5,Alive
+Grace,52,unfit,2,Close,Not Accustomed,8,Alive
+Grace,52,unfit,2,Close,Not Accustomed,8,Alive
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+Oscar,30,fit,1,Close,Accustomed,8,Alive
+Ian,71,fit,1,Close,Accustomed,1,Alive
+David,41,fit,3,Close,Not Accustomed,5,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+Hannah,80,fit,2,Far,Not Accustomed,1,Alive
+David,41,fit,3,Close,Not Accustomed,5,Alive
+Charlie,69,unfit,4,Far,Accustomed,8,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+Oscar,28,unfit,5,Mid,Accustomed,3,Alive
+Charlie,34,fit,3,Far,Accustomed,9,Alive
+Sam,63,unfit,4,Far,Accustomed,3,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+Ian,71,fit,1,Close,Accustomed,1,Alive
+Tina,52,fit,4,Far,Accustomed,4,Alive
+Hannah,29,unfit,5,Far,Accustomed,5,Alive
+Uma,72,fit,2,Far,Not Accustomed,9,Alive
+Hannah,29,unfit,5,Far,Accustomed,5,Alive
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+Xander,72,fit,6,Mid,Accustomed,4,Alive
+Uma,72,fit,2,Far,Not Accustomed,9,Alive
+David,41,fit,3,Close,Not Accustomed,5,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Hannah,29,unfit,5,Far,Accustomed,5,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+Oscar,30,fit,1,Close,Accustomed,8,Alive
+Tina,41,unfit,4,Far,Accustomed,2,Alive
+Ian,71,fit,1,Close,Accustomed,1,Alive
+Xander,72,fit,6,Mid,Accustomed,4,Alive
+Oscar,28,unfit,5,Mid,Accustomed,3,Alive
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+Oscar,30,fit,1,Close,Accustomed,8,Alive
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+David,41,fit,3,Close,Not Accustomed,5,Alive
+Hannah,80,fit,2,Far,Not Accustomed,1,Alive
+Charlie,34,fit,3,Far,Accustomed,9,Alive
+Zack,47,fit,5,Close,Not Accustomed,4,Alive
+Grace,34,fit,3,Mid,Accustomed,7,Alive
+David,41,fit,3,Close,Not Accustomed,5,Alive
+Charlie,34,fit,3,Far,Accustomed,9,Alive

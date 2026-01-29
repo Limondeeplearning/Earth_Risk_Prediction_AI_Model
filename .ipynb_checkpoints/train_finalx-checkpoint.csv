@@ -1,0 +1,71 @@
+Unnamed: 0,Name,Age,Health Status,Floor Assignment,Emergency Exit,Earthquake Safety Protocol,Status
+0,David,52,fit,4,Far,Not Accustomed,Alive
+1,Zack,81,unfit,2,Close,Not Accustomed,Dead
+2,Quinn,40,unfit,1,Close,Not Accustomed,Dead
+3,Frank,64,fit,4,Close,Not Accustomed,Dead
+4,Tina,34,unfit,6,Close,Accustomed,Alive
+5,Rachel,39,fit,4,Close,Not Accustomed,Alive
+6,Eva,43,fit,2,Close,Not Accustomed,Alive
+7,Victor,83,fit,4,Far,Not Accustomed,Alive
+8,Zack,62,unfit,1,Mid,Accustomed,Alive
+9,Julia,67,unfit,1,Close,Accustomed,Dead
+10,Quinn,46,unfit,2,Mid,Accustomed,Alive
+11,Eva,84,fit,6,Close,Accustomed,Dead
+12,Yara,74,unfit,3,Mid,Not Accustomed,Dead
+13,Sam,88,fit,6,Mid,Accustomed,Alive
+14,Tina,44,unfit,1,Close,Not Accustomed,Alive
+15,Laura,35,fit,5,Far,Not Accustomed,Dead
+16,Eva,24,unfit,3,Mid,Not Accustomed,Alive
+17,Tina,81,fit,3,Mid,Not Accustomed,Dead
+18,Eva,73,fit,4,Far,Accustomed,Alive
+19,Yara,47,fit,4,Far,Not Accustomed,Alive
+20,Uma,59,unfit,5,Mid,Accustomed,Alive
+21,Bob,31,fit,2,Close,Accustomed,Alive
+22,Kevin,51,unfit,3,Close,Not Accustomed,Alive
+23,Grace,82,fit,2,Mid,Not Accustomed,Alive
+24,Yara,79,unfit,4,Far,Accustomed,Alive
+25,Frank,19,fit,2,Close,Not Accustomed,Alive
+26,Kevin,27,unfit,3,Mid,Not Accustomed,Alive
+27,Tina,31,unfit,5,Far,Accustomed,Alive
+28,Grace,70,unfit,5,Close,Accustomed,Dead
+29,Yara,18,fit,5,Far,Accustomed,Alive
+30,Alice,49,unfit,6,Close,Not Accustomed,Dead
+31,Paula,61,unfit,4,Far,Accustomed,Dead
+32,Oscar,50,fit,5,Mid,Accustomed,Alive
+33,Charlie,83,fit,4,Mid,Not Accustomed,Dead
+34,Quinn,46,unfit,3,Far,Accustomed,Alive
+35,Paula,58,unfit,2,Mid,Not Accustomed,Alive
+36,Bob,26,unfit,5,Far,Accustomed,Alive
+37,Charlie,39,fit,6,Far,Not Accustomed,Alive
+38,Yara,63,unfit,1,Far,Not Accustomed,Dead
+39,Hannah,52,fit,3,Close,Not Accustomed,Alive
+40,Ian,69,fit,2,Far,Accustomed,Alive
+41,Tina,69,unfit,1,Far,Accustomed,Alive
+42,Wendy,23,fit,2,Close,Accustomed,Alive
+43,Eva,63,fit,3,Mid,Accustomed,Alive
+44,Uma,45,fit,3,Close,Not Accustomed,Alive
+45,Hannah,57,unfit,5,Far,Not Accustomed,Dead
+46,Uma,39,unfit,4,Mid,Accustomed,Alive
+47,Alice,25,unfit,5,Mid,Accustomed,Dead
+48,Grace,47,unfit,2,Far,Not Accustomed,Dead
+49,Eva,71,unfit,2,Close,Not Accustomed,Dead
+50,Sam,80,fit,1,Far,Accustomed,Alive
+51,Wendy,54,unfit,2,Close,Not Accustomed,Dead
+52,Uma,59,unfit,1,Far,Not Accustomed,Dead
+53,Grace,41,unfit,6,Mid,Not Accustomed,Dead
+54,Bob,77,fit,6,Mid,Not Accustomed,Dead
+55,Sam,74,unfit,4,Close,Not Accustomed,Dead
+56,Yara,52,unfit,1,Close,Not Accustomed,Alive
+57,Hannah,49,fit,1,Mid,Not Accustomed,Alive
+58,Zack,21,unfit,5,Close,Not Accustomed,Dead
+59,Victor,27,unfit,1,Mid,Accustomed,Alive
+60,Wendy,66,unfit,2,Far,Not Accustomed,Dead
+61,Hannah,41,unfit,4,Far,Accustomed,Alive
+62,Eva,89,unfit,1,Mid,Accustomed,Dead
+63,Nina,19,fit,1,Mid,Not Accustomed,Alive
+64,Grace,25,unfit,2,Mid,Not Accustomed,Alive
+65,Grace,72,unfit,4,Close,Not Accustomed,Dead
+66,Victor,81,fit,2,Far,Not Accustomed,Dead
+67,Paula,18,fit,5,Far,Accustomed,Alive
+68,David,68,unfit,1,Close,Not Accustomed,Dead
+69,Kevin,68,fit,2,Mid,Accustomed,Alive

@@ -1,0 +1,31 @@
+Name,Age,Health Status,Floor Assignment,Emergency Exit,Earthquake Safety Protocol,Status
+Mike,86,fit,2,,Not Accustomed,Dead
+Charlie,69,unfit,4,,Accustomed,Alive
+Grace,88,unfit,4,,Not Accustomed,Dead
+David,41,fit,3,,Not Accustomed,Alive
+Ian,71,fit,1,,Accustomed,Alive
+Sam,61,fit,6,,Accustomed,Dead
+Zack,47,fit,5,,Not Accustomed,Alive
+Tina,52,fit,4,,Accustomed,Alive
+Hannah,81,unfit,1,,Not Accustomed,Dead
+Hannah,80,fit,2,,Not Accustomed,Alive
+Xander,44,unfit,3,,Not Accustomed,Dead
+Victor,79,fit,5,,Not Accustomed,Dead
+Hannah,29,unfit,5,,Accustomed,Alive
+Rachel,60,unfit,6,,Accustomed,Dead
+Oscar,63,unfit,3,,Accustomed,Dead
+Oscar,30,fit,1,,Accustomed,Alive
+Uma,72,fit,2,,Not Accustomed,Alive
+Charlie,34,fit,3,,Accustomed,Alive
+Grace,52,unfit,2,,Not Accustomed,Alive
+Alice,49,unfit,4,,Not Accustomed,Dead
+Grace,34,fit,3,,Accustomed,Alive
+Mike,67,fit,5,,Accustomed,Alive
+David,50,unfit,1,,Not Accustomed,Dead
+Xander,72,fit,6,,Accustomed,Alive
+Paula,83,unfit,4,,Accustomed,Dead
+Tina,41,unfit,4,,Accustomed,Alive
+Sam,63,unfit,4,,Accustomed,Alive
+Oscar,28,unfit,5,,Accustomed,Alive
+Kevin,74,fit,3,,Not Accustomed,Alive
+Uma,82,fit,6,,Not Accustomed,Dead
